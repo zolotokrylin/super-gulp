@@ -1,0 +1,23 @@
+{
+    "name": "banners",
+    "description": "Banners Uprock",
+    "author": "Vadim Zolotokrylin <vadim.z@me.com>",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/uprock/banners.git"
+    },
+    "dependencies" : {
+        "gulp"   :  "*",
+        "gulp-jade" :  "*",
+        "gulp-jshint" :  "*",
+        "gulp-concat" :  "*",
+        "gulp-uglify" :  "*",
+        "gulp-minify-css" :  "*",
+        "gulp-autoprefixer" :  "*",
+        "gulp-livereload" :  "*",
+        "gulp-stylus" :  "*",
+        "gulp-rename" :  "*"
+
+    }
+}
